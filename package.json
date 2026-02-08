@@ -1,0 +1,16 @@
+{
+  "name": "nft-royalty-vault",
+  "version": "1.0.0",
+  "description": "Payment splitter for NFT royalties",
+  "main": "RoyaltyVault.sol",
+  "dependencies": {
+    "solc": "^0.8.19"
+  },
+  "keywords": [
+    "nft",
+    "royalties",
+    "vault",
+    "solidity",
+    "smart-contract"
+  ]
+}
